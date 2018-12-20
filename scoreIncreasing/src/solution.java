@@ -11,7 +11,11 @@ public class solution {
     public static void main(String[] args){
         int[] arr = {1, 3, 4};
         boolean score = scoreIncreasing(arr);
-        System.out.print(score);
+        //System.out.print(score);
+
+        int[] arr1 = {1,3,2};
+        boolean score1 = scoreIncreasing(arr1);
+        System.out.print(score1);
     }
     public static boolean scoreIncreasing(int[] arr){
 
