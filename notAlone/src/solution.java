@@ -15,6 +15,9 @@ public class solution {
     }
 }
     public static int[] notAlone(int[] arr , int val){
+        if(arr.length == 0){
+            return arr;
+        }
         //starting from 1 instead of 0 because in )th element would not have any value before it
         for(int i=1; i<arr.length-1; i++){
             //chk if array element is the value, and chk if is not same as previous and after element
