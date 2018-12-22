@@ -16,9 +16,9 @@
         <entry file="file://$PROJECT_DIR$/src/solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="350">
-              <caret line="30" column="36" lean-forward="false" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+              <caret line="30" column="35" lean-forward="false" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
               <folding>
-                <element signature="e#0#1250#0" expanded="true" />
+                <element signature="e#0#1249#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -257,9 +257,9 @@
     <entry file="file://$PROJECT_DIR$/src/solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
-          <caret line="30" column="36" lean-forward="false" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+          <caret line="30" column="35" lean-forward="false" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
           <folding>
-            <element signature="e#0#1250#0" expanded="true" />
+            <element signature="e#0#1249#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>

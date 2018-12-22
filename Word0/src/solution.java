@@ -28,7 +28,7 @@ public class solution {
             if(!map.containsKey(s)){
                 map.put(s,0);
             }
-            //put the key and value 
+            //put the key and value
             map.put(s, map.get(s));
         }
         return map;
